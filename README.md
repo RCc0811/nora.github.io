@@ -3,4 +3,4 @@ I'm a second-year master student in the School of Computer Science and Technolog
 
 
 [ICASSP 2025] SPARSE GENERATION: MAKING PSEUDO LABELS SPARSE FOR POINT WEAKLY SUPERVISED OBJECT DETECTION ON LOWDATA VOLUME
-              Chuyang Shang, Tian Ma, Wanzhu Ren, Yuancheng Li, Jiayi Yang
+                         Chuyang Shang, Tian Ma, Wanzhu Ren, Yuancheng Li, Jiayi Yang
